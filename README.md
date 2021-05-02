@@ -1,4 +1,4 @@
-# primeiro-projeto
+# primeiro-projeto com VueJS usando Vuetify https://vuetifyjs.com/en/
 
 ## Project setup
 ```
